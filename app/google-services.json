@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403481253956",
+    "firebase_url": "https://atatdevandroid.firebaseio.com",
+    "project_id": "atatdevandroid",
+    "storage_bucket": "atatdevandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403481253956:android:2ed1d7bd70ff15e24a0411",
+        "android_client_info": {
+          "package_name": "ad.mob.atatdev_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403481253956-v7h90ml9k80sh86fd4ao514bci7m998m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ad.mob.atatdev_android",
+            "certificate_hash": "1181687270f97356ffce608f7877c196c75ddb7b"
+          }
+        },
+        {
+          "client_id": "403481253956-2t2nsbj23eh6uui3818qf5a6eh7loso7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdO-nTbhhOD_mMJHxC6hVnYn01_738UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403481253956-2t2nsbj23eh6uui3818qf5a6eh7loso7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
